@@ -1,0 +1,6 @@
+a <- matrix(c(1:9), nrow = 3, ncol = 3)
+print(a)
+b<-diag(4)
+print(b)
+c<-diag(c(2,4,6))
+print(c)
